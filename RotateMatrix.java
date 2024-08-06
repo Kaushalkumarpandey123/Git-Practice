@@ -21,6 +21,7 @@ public class RotateMatrix {
 			System.out.println();
 		}
         System.out.println("For git commit changes");
+		System.out.println("For git commit changes second");
 	}
 
 	private static void rotateMatrixWithoutSpace(int[][] arr) {
